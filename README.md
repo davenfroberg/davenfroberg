@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Daven Froberg! 
+### Hi there 👋 I'm Daven! 
 
 I'm a second year student at the University of British Columbia, currently working towards a bachelor of science in Computer Science. On my GitHub, you'll find projects that I've finished or am currently working on. I'm currently proficient in Java and am aquiring HTML, CSS, and JavaScript. Feel free to check out [my LinkedIn](https://www.linkedin.com/in/davenfroberg/) and send me a message! 
 
