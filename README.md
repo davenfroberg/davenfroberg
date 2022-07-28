@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Daven Froberg! I'm a second year student at the University of British Columbia, currently working towards a bachelor of science in Computer Science.
 
 <!--
 **davenfroberg/davenfroberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
