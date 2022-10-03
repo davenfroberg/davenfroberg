@@ -1,6 +1,6 @@
 ### Hi! I'm Daven 👋 
 
-I'm a second year student at the University of British Columbia, currently working towards a bachelor of science in Computer Science. On my GitHub, you'll find projects that I've finished or am currently working on. I'm currently proficient in Java and am aquiring HTML, CSS, and JavaScript. Feel free to check out [my LinkedIn](https://www.linkedin.com/in/davenfroberg/) and send me a message! 
+I'm a second year student at the University of British Columbia, currently working towards a bachelor of science in Computer Science. On my GitHub, you'll find projects that I've finished or am currently working on. I'm proficient in Java but I am also familiar with HTML, CSS, and JavaScript. My current obsession is learning all that has C++ has to offer (painful, I know). Feel free to check out [my LinkedIn](https://www.linkedin.com/in/davenfroberg/) and send me a message! 
 
 <!--
 **davenfroberg/davenfroberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
